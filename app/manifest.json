@@ -1,0 +1,19 @@
+{
+  "name": "한국가스안전공사 수소(H₂) 규제특례 통합 대시보드",
+  "short_name": "수소 규제특례",
+  "description": "산업통상부 고시·공고문 및 한국산업기술진흥원(KIAT) 수소 규제특례 통합 모니터링 시스템",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f5f8",
+  "theme_color": "#003876",
+  "orientation": "any",
+  "lang": "ko-KR",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Crect width='128' height='128' rx='24' fill='%23003876'/%3E%3Crect x='8' y='8' width='112' height='112' rx='18' fill='none' stroke='%230085ca' stroke-width='3'/%3E%3Ctext x='64' y='54' font-family='sans-serif' font-size='22' font-weight='700' fill='%237dd3fc' text-anchor='middle'%3EKGS%3C/text%3E%3Ctext x='64' y='96' font-family='sans-serif' font-size='42' font-weight='800' fill='%23ffffff' text-anchor='middle'%3EH%E2%82%82%3C/text%3E%3C/svg%3E",
+      "sizes": "128x128 192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
